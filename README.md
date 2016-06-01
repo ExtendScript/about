@@ -14,3 +14,7 @@ Davide Barranca wrote in 2013 an article about: [Adobe Scripting: collaborative 
 > * You name it.
 
 Well - lets do it. 
+
+For starters we can use the [AMA](https://github.com/ExtendScript/AMA) repo issues for discussions or if it has to be faster this gitter.im chatroom.  
+
+[![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg?maxAge=2592000?style=flat-square)](https://gitter.im/ExtendScript/agora)  
