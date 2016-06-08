@@ -21,3 +21,7 @@ For starters we can use the [AMA](https://github.com/ExtendScript/AMA) repo issu
 [Public -> ![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg?maxAge=2592000?style=flat-square)](https://gitter.im/ExtendScript/agora)  
 [Members Only -> ![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg?maxAge=2592000?style=flat-square)  
 ](https://gitter.im/ExtendScript) 
+
+### How to become a member?  
+
+If you want to join this Org just write a comment on [this issue](https://github.com/ExtendScript/AMA/issues/2) in the AMA repository and someone will invite you.  
